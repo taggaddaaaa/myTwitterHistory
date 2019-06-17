@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 08:22:32 +0000 2019",
+		"id": 1140172793654456300,
+		"id_str": "1140172793654456325",
+		"full_text": "@AnthoWelc Merciiiiiiiiiiiiiiiiiii 😆",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnthoWelc",
+					"name": "Antho ᴡᴇʟᴄ",
+					"id": 4358949502,
+					"id_str": "4358949502",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1139815127316934700,
+		"in_reply_to_status_id_str": "1139815127316934656",
+		"in_reply_to_user_id": 4358949502,
+		"in_reply_to_user_id_str": "4358949502",
+		"in_reply_to_screen_name": "AnthoWelc",
+		"user": {
+			"id": 2339848938,
+			"id_str": "2339848938",
+			"name": "taggaddaaaa",
+			"screen_name": "taggaddaaaa",
+			"location": "Montpellier, France",
+			"description": "student @42born2code. Coding, and eating are my fav'passtime!",
+			"url": "https://t.co/s4Le2mEWoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s4Le2mEWoR",
+							"expanded_url": "http://www.sabinecaizergues.fr",
+							"display_url": "sabinecaizergues.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 389,
+			"listed_count": 9,
+			"created_at": "Wed Feb 12 06:18:07 +0000 2014",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/437199160161230848/BSryCr2t_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/437199160161230848/BSryCr2t_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339848938/1501158662",
+			"profile_link_color": "C50077",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@AnthoWelc Merciiiiiiiiiiiiiiiiiii 😆"
+	},
+	{
 		"created_at": "Fri Jun 14 15:28:00 +0000 2019",
 		"id": 1139555091277594600,
 		"id_str": "1139555091277594625",
